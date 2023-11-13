@@ -1,6 +1,5 @@
 {
     "required_api_version": "^2.0.0",
-    "manifest_version": "2",
     "name": "Cheat Sheets Manager",
     "description": "Provides quick access to your Cheat sheets in multiple formats with quick preview thanks to Hawkeye",
     "developer_name": "Bruno Paz",

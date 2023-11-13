@@ -1,6 +1,6 @@
 {
+    "required_api_version": "^2.0.0",
     "manifest_version": "2",
-    "api_version": "1",
     "name": "Cheat Sheets Manager",
     "description": "Provides quick access to your Cheat sheets in multiple formats with quick preview thanks to Hawkeye",
     "developer_name": "Bruno Paz",
@@ -13,14 +13,14 @@
             "type": "keyword",
             "name": "Cheats",
             "description": "Cheats extension",
-            "default_value": "cheats"
+            "default_value": "cs"
         },
         {
             "id": "cheats_dir",
             "type": "input",
             "name": "Cheats Dir",
             "description": "The directory to look for cheat sheets",
-            "default_value": ""
+            "default_value": "Documents/cheatsheets"
         },
         {
             "id": "urls_file",
